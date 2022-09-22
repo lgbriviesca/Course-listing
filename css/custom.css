@@ -1,0 +1,55 @@
+.paginationUpper {
+    text-align: center;
+}
+
+.paginationUpper2 {
+    text-align: right;
+}
+
+.paginationDown {
+    margin-top: 2vh;
+    margin-left: 35%;
+}
+
+/* ------------------------------------------------ */
+
+.dataBaseRight>h5 {
+    text-align: center;
+    margin-bottom: 2vh;
+}
+
+.formField {
+    width: 80%;
+    margin-left: 5vw;
+}
+
+/* ------------------------------------------------ */
+
+.productsWithAction {
+    display: flex;
+    flex-direction: column;
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+    width: 100%;
+    height: 80vh;
+}
+
+.courseCard{
+    margin-bottom: 2vh;
+}
+
+/* ----------------------------------------- */
+
+ .authorField{
+padding: 2vh 2vh;
+} 
+
+.cardDetails{
+    margin-right: 2vw;
+}
+
+.pictureField{
+    justify-items: center;
+    align-items: center;
+    height: fit-content;
+}
